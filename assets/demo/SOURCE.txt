@@ -1,0 +1,4 @@
+Original synthetic vector artwork created for this local Layer Story demonstration.
+May be copied, modified and used in demonstrations or commercial outputs.
+No third-party template geometry is included. Not physically cut or assembly-tested.
+All layers were authored on the same 600 x 600 canvas; order is explicitly defined in manifest.json.
