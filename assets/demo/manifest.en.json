@@ -1,0 +1,39 @@
+{
+  "title": "Moonlit Reading Room",
+  "brand": "Layer Story / Original demo",
+  "language": "en",
+  "order_confirmed": true,
+  "alignment_confirmed": true,
+  "layers": [
+    {
+      "id": "dawn",
+      "label": "Moonlight base",
+      "file": "01-dawn.svg"
+    },
+    {
+      "id": "sky",
+      "label": "Sky and moon",
+      "file": "02-sky.svg"
+    },
+    {
+      "id": "ridge",
+      "label": "Distant ridge",
+      "file": "03-ridge.svg"
+    },
+    {
+      "id": "shore",
+      "label": "Pines and far shore",
+      "file": "04-shore.svg"
+    },
+    {
+      "id": "cabin",
+      "label": "Waterside reading cabin",
+      "file": "05-cabin.svg"
+    },
+    {
+      "id": "reeds",
+      "label": "Foreground reeds",
+      "file": "06-reeds.svg"
+    }
+  ]
+}

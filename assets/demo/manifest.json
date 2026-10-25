@@ -1,0 +1,39 @@
+{
+  "title": "山月书屋",
+  "brand": "LAYER STORY / 原创演示",
+  "language": "zh",
+  "order_confirmed": true,
+  "alignment_confirmed": true,
+  "layers": [
+    {
+      "id": "dawn",
+      "label": "月光底层",
+      "file": "01-dawn.svg"
+    },
+    {
+      "id": "sky",
+      "label": "天空与圆月",
+      "file": "02-sky.svg"
+    },
+    {
+      "id": "ridge",
+      "label": "远山",
+      "file": "03-ridge.svg"
+    },
+    {
+      "id": "shore",
+      "label": "松林与远岸",
+      "file": "04-shore.svg"
+    },
+    {
+      "id": "cabin",
+      "label": "临水书屋",
+      "file": "05-cabin.svg"
+    },
+    {
+      "id": "reeds",
+      "label": "近景水岸",
+      "file": "06-reeds.svg"
+    }
+  ]
+}
